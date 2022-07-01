@@ -1,6 +1,6 @@
 # Quasar App (quasaproyect)
 
-unadescripcion
+Front de Crudcoinx en proyecto integro en Quasar, este front es un ejemplo demostrativo para consumir una API REST desarrollada por el mismo autor, en el repositorio de Crudcoinx se encuentra el mismo front compilado en la carpeta dist
 
 ## Install the dependencies
 ```bash
